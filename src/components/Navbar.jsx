@@ -15,7 +15,7 @@ const Navbar = () => {
         </div>
         <li className="resume-link">
           <a href={resume} download>
-            <FaDownload /> Resume
+            <FaDownload className="hidden"/> Resume
           </a>
         </li>
       </ul>

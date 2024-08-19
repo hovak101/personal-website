@@ -22,7 +22,7 @@ const DATA = [
     "Setup 2 webcameras to measure depth using stereo camera setup.",
     "Used opencv stereo camera and calibration libraries.",
     "Created depth map estimation from disparity map."
-  ]}
+  ], github: "https://github.com/hovak101/stereo_depth_detection"}
 ];
 
 createRoot(document.getElementById('root')).render(
