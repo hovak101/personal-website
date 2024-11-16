@@ -80,10 +80,10 @@ h1 {
   align-items: center; 
   justify-content: center;
   margin-left: 6%;
-  width: 400px; /* Set both width and height explicitly */
+  width: 400px;
   height: 400px; 
-  border-radius: 50%; /* Makes it circular */
-  object-fit: cover; 
+  border-radius: 50%; 
+  object-fit: cover;
 }
 
 .profile-bio {

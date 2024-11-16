@@ -6,7 +6,7 @@ function Links() {
         <a href="https://github.com/hovak101" target="_blank">
           <img src={githubLogo} className="logo github" alt="github logo" />
         </a>
-        <a href="https://www.linkedin.com/in/alex-hovakimyan-2a7848241/" target="_blank">
+        <a href="https://www.linkedin.com/in/alex-hovakimyan" target="_blank">
           <img src={linkedinLogo} className="logo linkedin" alt="linkedin logo" />
         </a>
     </div>);
